@@ -1,0 +1,47 @@
+{
+  "packages": [
+    {
+      "name": "Prestissmo Uno+",
+      "maintainer": "Prestissimo",
+      "websiteURL": "https://github.com/ElektorLabs/arduino/",
+      "email": "research_tech@amnet.net.au",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Prestissmo Uno+",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/prestissimo/prestissimo/releases/download/v1.0/prestissimo-uno-1.0.0.zip",
+          "archiveFileName": "prestissimo-uno-1.0.0.zip",
+          "checksum": "SHA-256:B07A0847BA6D87662FC3CA024E0D87682D07D63E3236E8A8BBD48D471B283654",
+          "size": "178636",
+          "help": {
+                    "online": ""
+          },
+          "boards": [
+            {"name": "Prestissmo Uno+"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.3-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino2"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
