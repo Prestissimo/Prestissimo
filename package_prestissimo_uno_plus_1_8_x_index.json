@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/prestissimo/prestissimo/",
       "email": "research_tech@amnet.net.au",
       "help": {
-        "online": ""
+        "online": "https://github.com/prestissimo/prestissimo/"
       },
       "platforms": [
         {
@@ -15,14 +15,14 @@
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": ""
+            "online": "https://github.com/prestissimo/prestissimo/"
           },
           "url": "https://github.com/prestissimo/prestissimo/prestissimo-uno-1.0.0.zip",
           "archiveFileName": "prestissimo-uno-1.0.0.zip",
           "checksum": "SHA-256:B07A0847BA6D87662FC3CA024E0D87682D07D63E3236E8A8BBD48D471B283654",
           "size": "178636",
           "help": {
-                    "online": ""
+                    "online": "https://github.com/prestissimo/prestissimo/"
           },
           "boards": [
             {"name": "Prestissmo Uno+"}
